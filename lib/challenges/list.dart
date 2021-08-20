@@ -1,4 +1,4 @@
-import 'package:daily_challenge/challenges/20210816.dart';
+import 'package:daily_challenge/challenges/20210819.dart';
 import 'package:daily_challenge/challenges/20210817.dart';
 import 'package:daily_challenge/challenges/20210818.dart';
 import 'package:daily_challenge/challenges/interface.dart';
@@ -7,9 +7,9 @@ import 'package:vrouter/vrouter.dart';
 
 class ChallengeList {
   static final List<ChallengeItem> _challenges = [
-    Challenge20210816(),
     Challenge20210817(),
     Challenge20210818(),
+    Challenge20210819(),
   ];
 
   static List<Widget> asListView(BuildContext context) {

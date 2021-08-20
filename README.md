@@ -1,16 +1,25 @@
-# daily_challenge
+# Flutter Daily Challenges
 
-Create something new every day
+A random dumping ground of ideas that I try out in [Flutter](https://flutter.dev).
+I need a place to try things, and this is it.
 
-## Getting Started
+## Running
 
-This project is a starting point for a Flutter application.
+* Clone the repo
+* Run `pub get`
+* Open in your preferred Flutter IDE and run
 
-A few resources to get you started if this is your first Flutter project:
+## Build Diaries
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Any sort of documentation and reading about a particular day is probably not in the app itself, but
+in the `doc/` directory. The filename of the challenge day corresponds to the filename of the
+documentation, so it should be pretty easy to find.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Build Diary](docs/)
+
+## License
+
+All code is licensed under the [MIT License](LICENSE). All assets are almost certainly not owned by
+me and will be attributed to the correct source in the build diary pages.
+
+All placeholder images are sourced when possible from [Unsplash](https://r.btdev.org/unsplash)
